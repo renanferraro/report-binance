@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: report-binance
+  annotations:
+    github.com/project-slug: renanferraro/report-binance
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
